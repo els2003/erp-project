@@ -13,6 +13,7 @@ This project was developed to automate and optimize the management of a gas cyli
   ![Flatpickr](https://img.shields.io/badge/-Flatpickr-00C7B7?style=flat-square)  ![DataTables](https://img.shields.io/badge/-DataTables-336699?logo=datatables&logoColor=white&style=flat-square)  ![ApexCharts](https://img.shields.io/badge/-ApexCharts-FF4560?style=flat-square)  ![jQuery Mask](https://img.shields.io/badge/-jQuery%20Mask-0769AD?logo=jquery&logoColor=white&style=flat-square)  
 
 ## Demonstration Video  
+> *Note: The video is in Portuguese.*
 
 [![Watch the video on YouTube](https://img.youtube.com/vi/xLQx-Rz9m7Y/0.jpg)](https://www.youtube.com/watch?v=xLQx-Rz9m7Y)  
 
